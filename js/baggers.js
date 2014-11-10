@@ -4867,23 +4867,27 @@ var data = {
         },
         {
             "name": "Julien Dargaisse",
-            "bio": "Tech Entrepreneur & UI/UX Designer. A l'initiative de PALO ALTOURS, La Cantine Numérique Tours, Startup Weekend Tours, Apéro Entrepreneurs Tours. #FBSAlumni",
-            "picture": "https://pbs.twimg.com/profile_images/2284064030/r1fue8rqkl904pvija46.jpeg",
+            "bio": "Tech Entrepreneur & UI/UX Designer.",
+            "picture": "https://pbs.twimg.com/profile_images/479642019908698112/KB6hIQ8N.png",
             "websites": [
                 {
-                    "title": "linkedin",
+                    "title": "About.me",
+                    "href": "https://www.about.me/juliendargaisse"
+                },
+                {
+                    "title": "LinkedIn",
                     "href": "https://www.linkedin.com/in/juliendargaisse"
                 },
                 {
-                    "title": "BuzzleMe (fondateur)",
-                    "href": "http://www.buzzle.me/fr"
+                    "title": "InterviewApp (Co-fondateur & CEO)",
+                    "href": "http://itwapp.io"
                 },
                 {
-                    "title": "Nowly (co-fondateur)",
-                    "href": "http://www.nowly.co"
+                    "title": "Nowly (Co-fondateur & Partner)",
+                    "href": "http://get.nowly.co"
                 },
                 {
-                    "title": "PALO ALTOURS (Startup associative)",
+                    "title": "PALO ALTOURS (Co-fondateur & Président)",
                     "href": "http://www.paloaltours.org"
                 }
             ],
@@ -4901,8 +4905,8 @@ var data = {
                     "summary": "Les apps/saas pour pouvoir travailler en mobilité."
                 },
                 {
-                    "title": "Le recrutement 2.0",
-                    "summary": "Les outils et bonnes pratiques pour recruter avec le web."
+                    "title": "Le numérique au service du recrutement",
+                    "summary": "Améliorer la performance du processus de recrutement tout en valorisant sa marque employeur grâce à la vidéo."
                 }
             ],
             "tags": [
@@ -4922,19 +4926,19 @@ var data = {
         {
             "name": "Jérôme Heissler",
             "bio": "Startup lovers • Tech Entrepreneur • Architect AWS • Developer Web & Scala/Java • Passionate about Continuous Delivery, Infrastructure Automation, and all things Devops.",
-            "picture": "https://pbs.twimg.com/profile_images/378800000207562580/068af47146178ce025736989f37fd862.jpeg",
+            "picture": "https://pbs.twimg.com/profile_images/524964372821454848/u9PxEBlC.jpeg",
             "websites": [
                 {
-                    "title": "linkedin",
+                    "title": "LinkedIn",
                     "href": "https://www.linkedin.com/in/jeromeheissler"
                 },
                 {
-                    "title": "BuzzleMe (Co-Founder)",
-                    "href": "http://www.buzzle.me/fr"
+                    "title": "InterviewApp (Co-fondateur & CTO)",
+                    "href": "http://itwapp.io"
                 },
                 {
-                    "title": "Nowly (Co-Founder)",
-                    "href": "http://www.nowly.co"
+                    "title": "Nowly (Co-fondateur)",
+                    "href": "http://get.nowly.co"
                 }
             ],
             "twitter": "jeromeheissler",
@@ -5014,8 +5018,8 @@ var data = {
                     "href": "https://www.linkedin.com/pub/manyssin-thin/70/706/62"
                 },
                 {
-                    "title": "Nowly (Founder)",
-                    "href": "http://www.nowly.co"
+                    "title": "Nowly (Co-fondateur & CEO)",
+                    "href": "http://get.nowly.co"
                 }
             ],
             "twitter": "huvw",
@@ -5046,8 +5050,8 @@ var data = {
                     "href": "http://lnkd.in/dm_XUv4"
                 },
                 {
-                    "title": "Nowly (Co-Founder)",
-                    "href": "http://www.nowly.co"
+                    "title": "Nowly (Co-fondateur)",
+                    "href": "http://get.nowly.co"
                 }
             ],
             "twitter": "mattlawer",
@@ -5708,4 +5712,3 @@ var data = {
         }
     ]
 };
-
